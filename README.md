@@ -1,6 +1,6 @@
 ### Hi Buddy😍
 
-☺ My Name Is Reyhaneh & Im A FrontEnd Developer
+😎 My Name Is Reyhaneh & Im A Web Developer
 
 };
 
