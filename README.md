@@ -10,8 +10,8 @@
 
 - 👩‍💻 &nbsp;Web Developer
 - 🎓 &nbsp;IT Student
-- 🧠 &nbsp;I'm Learning Vue.js
-- ✉️ &nbsp;You Can Message Me ( reyhaneh3784@gmail.com )
+- 🧠 &nbsp;I'm Learning React.js
+- ✉️ &nbsp;You Can Message Me ( Reyhaneh.hm1770@gmail.com )
 
 <br>
 
