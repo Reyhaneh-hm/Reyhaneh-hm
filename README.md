@@ -8,7 +8,7 @@
 
 <h3> 😊&nbsp;About Me : </h3>
 
-- 👩‍💻 &nbsp;Web Developer
+- 👩‍💻 &nbsp;FrontEnd Developer
 - 🎓 &nbsp;IT Student
 - 🧠 &nbsp;I'm Learning React.js
 - ✉️ &nbsp;You Can Message Me ( Reyhaneh.hm1770@gmail.com )
