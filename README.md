@@ -17,8 +17,8 @@
 
 ### 🔗 Social Network : 
 <a href="https://github.com/Reyhaneh-hm" target="_blank"><img class="icon"  width="35px" align="left" alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
-<a href="https://instagram.com/reyhaneh.h.m.3?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img class="icon" align="left" alt="instagram" width="35px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>
-<a href="http://T.me/Reyhaneh1848" target="_blank"><img class="icon" align="left" alt="telegram" width="35px" src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" /></a>
+<a href="https://instagram.com/reycode-web?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img class="icon" align="left" alt="instagram" width="35px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>
+<a href="http://T.me/ReyCode3" target="_blank"><img class="icon" align="left" alt="telegram" width="35px" src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" /></a>
 
 <br><br><br>
 
