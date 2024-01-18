@@ -10,7 +10,7 @@
 
 - 👩‍💻 &nbsp;FrontEnd Developer
 - 🎓 &nbsp;IT Student
-- 🧠 &nbsp;I'm Learning React.js
+- 🧠 &nbsp;I'm Learning TypeScript
 - ✉️ &nbsp;You Can Message Me ( Reyhaneh.hm1770@gmail.com )
 
 <br>
